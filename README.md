@@ -6,7 +6,7 @@ Simple application made for sorting portrait and landscape pictures, and also vi
 
 Script compiled using pyinstaller
 ```
-pyinstaller --onefile --windowed --icon=app.ico WallpaperSortingv1.py
+pyinstaller --onefile --icon=app.ico WallpaperSortingv1.py
 ```
 ## Example screenshoots
 ### Program running
