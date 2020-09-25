@@ -9,6 +9,14 @@ Script compiled using pyinstaller
 pyinstaller --onefile --windowed --icon=app.ico WallpaperSortingv1.py
 ```
 ## Example screenshoots
+### Program running
+
 ![Program running](https://github.com/97997/WallpaperSorting/raw/master/run.JPG)
+
+### Folder before program execution
+
 ![Folder before program execution](https://github.com/97997/WallpaperSorting/raw/master/before.JPG)
+
+### After the folder processing
+
 ![After the folder processing](https://github.com/97997/WallpaperSorting/raw/master/after.JPG)
